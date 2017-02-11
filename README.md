@@ -9,6 +9,7 @@
 - as my learning process to create template using bootstrap and wordpress.org as popular framework and CMS.
 - to get familiar with the structure for developing template using bootstrap and wordpress.
 - to get more understanding with the codex wordpress.
+
 # Credits
 
 - Bootstrap - https://getbootstrap.com
